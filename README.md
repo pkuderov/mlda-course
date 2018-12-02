@@ -6,7 +6,8 @@ The assignments are split by courses. In each course IPython notebooks're in chr
 
 - `p` - practice, which is corresponding to notebooks from practical lectures with Emely - they don't contain any assignments.
 - `a` - assignment, which is corresponding to notebooks with assignments.
+- `ext` - some notebooks are just my Kaggle practice, i.e. aren't from the courses, so I marked them as _extra_.
 
 The input data for notebooks is stored in `data/` subfolder of each course and output is in `out/` subfolder.
 
-All notebooks are Python 3 compatible. Some notebooks are just my Kaggle practice, i.e. aren't from the courses.
+All notebooks are Python 3 compatible.
