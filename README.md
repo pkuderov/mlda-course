@@ -1,6 +1,6 @@
 # mlda-course
 
-It contains programming assignments I've done for [Machine Learning for Data Analysis](https://www.coursera.org/specializations/machine-learning-data-analysis) online course specialization.
+This repo contains programming assignments I've done for [Machine Learning for Data Analysis](https://www.coursera.org/specializations/machine-learning-data-analysis) online course specialization.
 
 The assignments are split by courses. In each course IPython notebooks're in chronological order, but also provided with some prefix, like `w2a` or `w1p`, which means _# of week_ and _kind of notebook_. There're 2 kinds of notebooks:
 
